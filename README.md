@@ -19,6 +19,7 @@ The jupyter notebook coding assignments for the week are located in the Coding_A
 * **Start_Perceptron_Student** - First Perceptron Notebook with none of the answers filled in.  Students should complete this notebook before moving onto _Perceptron_Student_.
 * **Perceptron_Intructor** - Second Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing second.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
 * **Perceptron_Student** - Second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete _Start_Perceptron_Student_. 
+* **Materials** - This folder holds the datasets and images imported by the coding assignment notebooks.
 
 **Lecture_Material** <br>
 The lecture material for this week can be found in the Lecture_Material folder.  Within this folder you will find two subfolders named Notes and Slides. 
