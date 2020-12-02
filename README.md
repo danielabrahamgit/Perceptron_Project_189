@@ -13,10 +13,17 @@ Release the coding assignment 24 hours after you give lecture.  This will give s
 By the end of this week, students should have an understanding of what a Perceptron is, how to contruct one, and how it relates to Neural Networks as a whole.  They should have a feeling for when to use linear classification, even getting a taste of how to turn non-linear problems into linear ones.  Most importantly, we want them to have gained comfortablility with using Scikit Learn and the functions it provides for doing linear classification.   
 ___
 ## Navigation
-**Coding Assignments** <br>
+**Notebook** <br>
 The coding assignments can be found in the Notebook folder.  In it you will find 4 files and a folder named _material_
 * **Start_Perceptron_Intructor** - The first Perceptron Notebook with answers filled in and all cells run.  This is the notebook students should start with as it lays the foundation for what a Perceptron is and how to build one.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
 * **Start_Perceptron_Student** - The first Perceptron Notebook with none of the answers filled in.  Students should complete this notebook before moving onto **Perceptron_Student**.
 * **Perceptron_Intructor** - The second Perceptron Notebook with answers filled in and all cells run.  The students should be completeing this notebook after doing the first one.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
 * **Perceptron_Student** - The second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete **Start_Perceptron_Student**. 
 * **_material_** - This folder holds all of the supplimentary material for the coding assignment.  This includes all zip files of imported data sets and images.
+<br><br>
+**Lecture_Material** <br>
+The lecture material for this week can be found in the Lecture_Material folder.  Within this folder you will find two subfolders named Notes and Slides. 
+* **Notes** - This folder holds all of the material related to the notes for the week
+  * **Perceptron_Notes** - Notes about perceptrons
+* **Slides** - This folder holds the slide deck for the week along with its supplementary material
+  * **Perceptron_Slides** - Slide deck for lecture on perceptrons
