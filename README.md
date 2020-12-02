@@ -13,17 +13,21 @@ Release the coding assignment 24 hours after you give lecture.  This will give s
 By the end of this week, students should have an understanding of what a Perceptron is, how to contruct one, and how it relates to Neural Networks as a whole.  They should have a feeling for when to use linear classification, even getting a taste of how to turn non-linear problems into linear ones through featurization.  Most importantly, we want them to have gained comfortablility with using Scikit Learn and the functions it provides for doing linear classification.   
 ___
 ## Navigation
-**Notebook** <br>
-The coding assignments can be found in the Notebook folder.  In it you will find 4 files and a folder named _material_
+**Coding_Assignments** <br>
+The jupyter notebook coding assignments for the week are located in the Coding_Assignments folder. This holds all relavent coding material for instructors and students.
 * **Start_Perceptron_Intructor** - First Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing first.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
-* **Start_Perceptron_Student** - First Perceptron Notebook with none of the answers filled in.  Students should complete this notebook before moving onto **Perceptron_Student**.
+* **Start_Perceptron_Student** - First Perceptron Notebook with none of the answers filled in.  Students should complete this notebook before moving onto _Perceptron_Student_.
 * **Perceptron_Intructor** - Second Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing second.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
-* **Perceptron_Student** - Second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete **Start_Perceptron_Student**. 
-* **_material_** - This folder holds all of the supplimentary material for the coding assignment.  This includes all zip files of imported data sets and images.
+* **Perceptron_Student** - Second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete _Start_Perceptron_Student_. 
+* **Materials** - This folder holds the datasets and images imported by the coding assignment notebooks.
 
 **Lecture_Material** <br>
 The lecture material for this week can be found in the Lecture_Material folder.  Within this folder you will find two subfolders named Notes and Slides. 
 * **Notes** - This folder holds all of the material related to the notes for the week
-  * **Perceptron_Notes** - Notes about perceptrons
-* **Slides** - This folder holds the slide deck for the week along with its supplementary material
-  * **Perceptron_Slides** - Slide deck for lecture on perceptrons
+  * **Perceptron_Notes** - PDF containing the Perceptron notes for the week.  This file should be provided to students so that they can review the material they learned in lecture.
+* **Slides** - This folder holds the slide deck for the week along with any supplementary material
+  * **Perceptron-Slides** - PDF of a slide deck for the lecture on Perceptrons
+  
+**Quizzes** <br>
+The quiz material for the week can be found in this folder.
+* **Perceptron_Quiz** - PDF of a 10 question quiz about Perceptrons.  This document contains both the questions and the answers.  Can be provided to students as is so that they can check their understanding of the material from the week. 
