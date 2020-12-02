@@ -15,6 +15,8 @@ ___
 ## Navigation
 **Coding Assignments** <br>
 The coding assignments can be found in the Notebook folder.  In it you will find 4 files and a folder named _material_
-* **Perceptrons_Intructor** - The Perceptron Notebook with answers filled in and all cells run.  Intructors will use this as a reference when a assisting students, not that this is not the only way to implement the solutions. Can also be provided to students as a solution manual.
-* **Perceptrons_Student** - The Perceptron Notebook with none of the answers filled in.  Provide this to students so that they can work on filling in the answers throughout the course of the week.
-* **_material_** - This folder holds all of the supplimentary material for the coding assignment.  This includes all imported data sets and images.
+* **Start_Perceptron_Intructor** - The first Perceptron Notebook with answers filled in and all cells run.  This is the notebook students should start with as it lays the foundation for what a Perceptron is and how to build one.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
+* **Start_Perceptron_Student** - The first Perceptron Notebook with none of the answers filled in.  Students should complete this notebook before moving onto **Perceptron_Student**.
+* **Perceptron_Intructor** - The second Perceptron Notebook with answers filled in and all cells run.  The students should be completeing this notebook after doing the first one.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
+* **Perceptron_Student** - The second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete **Start_Perceptron_Student**. 
+* **_material_** - This folder holds all of the supplimentary material for the coding assignment.  This includes all zip files of imported data sets and images.
