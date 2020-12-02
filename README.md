@@ -20,8 +20,10 @@ The coding assignments can be found in the Notebook folder.  In it you will find
 * **Perceptron_Intructor** - The second Perceptron Notebook with answers filled in and all cells run.  The students should be completeing this notebook after doing the first one.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
 * **Perceptron_Student** - The second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete **Start_Perceptron_Student**. 
 * **_material_** - This folder holds all of the supplimentary material for the coding assignment.  This includes all zip files of imported data sets and images.
-<br><br>
-**Lecture_Material** <br>
+<br>
+<br>
+**Lecture_Material** 
+<br>
 The lecture material for this week can be found in the Lecture_Material folder.  Within this folder you will find two subfolders named Notes and Slides. 
 * **Notes** - This folder holds all of the material related to the notes for the week
   * **Perceptron_Notes** - Notes about perceptrons
