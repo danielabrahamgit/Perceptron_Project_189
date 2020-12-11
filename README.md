@@ -26,4 +26,5 @@ The lecture material for this week can be found in the Lecture_Material folder. 
   
 **Quizzes** <br>
 The quiz material for the week can be found in this folder.
-* **Perceptron_Quiz** - PDF of a 10 question quiz about Perceptrons.  This document contains both the questions and the answers.  Can be provided to students as is so that they can check their understanding of the material from the week. 
+* **Perceptron Quiz** - PDF of a 11 question quiz about Perceptrons.  This document contains the questions.  
+* **Perceptron Quiz Answer Key** - PDF of the solutions to the quiz. Can be provided to students as is so that they can check their understanding of the material from the week. 
