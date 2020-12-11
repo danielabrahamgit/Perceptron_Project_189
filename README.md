@@ -13,8 +13,8 @@ ___
 ## Navigation
 **Coding_Assignments** <br>
 The jupyter notebook coding assignments for the week are located in the Coding_Assignments folder. This holds all relavent coding material for instructors and students.
-* **Perceptron_Instructor** - This is the Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
-* **Perceptron_Student** - Perceptron Notebook with none of the answers filled in.  Students should complete this notebook as part of their homework assignment.
+* **Instructor** - This is the Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
+* **Student** - Perceptron Notebook with none of the answers filled in.  Students should complete this notebook as part of their homework assignment.
 * **Materials** - This folder holds the datasets and images imported by the coding assignment notebooks.
 
 **Lecture_Material** <br>
