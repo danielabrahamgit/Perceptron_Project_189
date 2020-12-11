@@ -1,6 +1,6 @@
 # Perceptron_Project_189
 ___
-This folder holds the 16ML course material pertaining to Perceptrons. Resources for both intructors and students are contained.  These include course notes, a slide deck, quiz questions with answers, and a coding assignment with answers.  The material taught this weel is meant to enforce an understanding of Linear Models and how they can be used.  At this point, we can expect the students to have a good understanding of Python and Linaer Algebra. For this unit, pertinant Linear Algebra material you can build off of is Inner Products, Matrix Multiplication, Least Squares, and OMP.
+This folder holds the 16ML course material pertaining to Perceptrons. Resources for both intructors and students are contained.  These include course notes, a slide deck, quiz questions with answers, and a coding assignment with answers.  The material taught this week is meant to enforce an understanding of Linear Models and how they can be used.  This lesson is meant to be taught during week 2 of class, so we can really only expect the students to know material from CS61A and EE16A.  That being said, at this point we can expect the students to have a good understanding of Python and Linaer Algebra. For this unit, pertinant Linear Algebra material you can build off of is Inner Products, Matrix Multiplication, Least Squares, and OMP.
 ___
 ## Usage
 After listening to the lecture and reading the notes, students are encouraged to take the provided quiz.  These questions are not meant to be overly complicated, they are just testing whether or not students absorbed what they were supposed to from the lesson.  Tell students to re-read the notes if they cannot pass the quiz.
@@ -13,10 +13,8 @@ ___
 ## Navigation
 **Coding_Assignments** <br>
 The jupyter notebook coding assignments for the week are located in the Coding_Assignments folder. This holds all relavent coding material for instructors and students.
-* **Start_Perceptron_Intructor** - First Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing first.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
-* **Start_Perceptron_Student** - First Perceptron Notebook with none of the answers filled in.  Students should complete this notebook before moving onto _Perceptron_Student_.
-* **Perceptron_Intructor** - Second Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing second.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
-* **Perceptron_Student** - Second Perceptron Notebook with none of the answers filled in.  Students should tackle this notebook after they complete _Start_Perceptron_Student_. 
+* **Perceptron_Intructor** - This is the Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
+* **Perceptron_Student** - Perceptron Notebook with none of the answers filled in.  Students should complete this notebook as part of their homework assignment.
 * **Materials** - This folder holds the datasets and images imported by the coding assignment notebooks.
 
 **Lecture_Material** <br>
